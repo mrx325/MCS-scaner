@@ -47,9 +47,9 @@ class options:
 
     def __init__(self):
         global readfile
-        print """\033[1;34;40m       You Can Scan By 2 Options
+        print """\033[1;34;40m       
+                                     You Can Scan By 2 Options
         
-                                    There are two options for scanning process
         [1] Scan the websites given from text file
         [2] Scan random vulnerable website by giving Google dork \033[0;34;40m \n"""
         option = raw_input("Choose option [1/2]: ")
