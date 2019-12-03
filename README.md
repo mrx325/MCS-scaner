@@ -1,4 +1,6 @@
 # MCS-scaner
+
+current verion is outdated new verion will be realased soon on the main src
 ===================SET UP================                                                                                                               
 
 git clone https://github.com/rone8989/MCS-scaner.git                                                                               
